@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a0efa89-b4ab-45ec-b39a-26f3b82aa715" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jnFn7XLM4BTWBtWxtWTTlQGIKW" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="refactor_shape" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1604510442729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604510442729" />
+    <state width="1515" height="572" key="GridCell.Tab.0.bottom" timestamp="1604511611548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="572" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604511611548" />
+    <state width="1515" height="572" key="GridCell.Tab.0.center" timestamp="1604511611548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="572" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604511611548" />
+    <state width="1515" height="572" key="GridCell.Tab.0.left" timestamp="1604511611548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="572" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604511611548" />
+    <state width="1515" height="572" key="GridCell.Tab.0.right" timestamp="1604511611548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="572" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604511611548" />
+  </component>
+</project>
